@@ -47,7 +47,8 @@
 
 
 <!-- MARKDOWN LINKS -->
-[header-banner]: https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Andrei!&center=true&size=26
+[header-banner]: https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Andrei!&font=Fira%20Code&center=true&duration=3000&pause=1000&size=26
+
 [github]: https://github.com/andreihar
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin]: https://www.linkedin.com/in/andrei-harbachov/
