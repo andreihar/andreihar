@@ -54,6 +54,6 @@
 [linkedin]: https://www.linkedin.com/in/andrei-harbachov/
 [mail-badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [mail]: mailto:andrei.harbachov@gmail.com
-[stats-banner]: https://github-readme-stats.vercel.app/api?username=andreihar&show_icons=true&theme=transparent&custom_title=GitHub&#32;Stats&hide_border=true
-[langs-banner]: https://github-readme-stats.vercel.app/api/top-langs/?username=andreihar&layout=donut&theme=transparent&hide_border=true
+[stats-banner]: https://github-readme-stats-andreihar.vercel.app/api?username=andreihar&show_icons=true&theme=transparent&custom_title=GitHub&#32;Stats&hide_border=true
+[langs-banner]: https://github-readme-stats-andreihar.vercel.app/api/top-langs/?username=andreihar&layout=donut&theme=transparent&hide_border=true
 [visitor-badge]: https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fandreihar&labelColor=%23222222&countColor=%23263759
