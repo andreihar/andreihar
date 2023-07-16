@@ -62,7 +62,7 @@
 
 
 <!-- MARKDOWN LINKS -->
-[header-banner]: https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Andrei!&font=Cormorant%20Garamond&center=true&duration=3000&pause=1000&size=32&weight=600
+[header-banner]: https://readme-typing-svg.demolab.com/?lines=Hey+there!;你食飽未？;!السلام+عليكم;まいど！;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ!&font=Cormorant%20Garamond&center=true&duration=3000&pause=1000&size=32&weight=600
 
 [github]: https://github.com/andreihar
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
