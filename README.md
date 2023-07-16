@@ -9,7 +9,7 @@
 
 </div>
 
-### Andrei Harabchov
+### Andrei Harbachov
 
 👋 Hello, everyone! I'm a dedicated university student pursuing a major in Computer Science with a keen interest in the fascinating world of Artificial Intelligence. My passion drives me to continuously explore and contribute to this rapidly advancing realm, as I strive to be at the forefront of innovative solutions. Come along on this fascinating journey of discovering the boundless potential of AI! 🚀
 
