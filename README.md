@@ -1,10 +1,11 @@
 <div align="center">
 
-# [![Typing SVG][header-banner]][github]
+## [![Typing SVG][header-banner]][github]
 
 <!-- PROFILE SHIELDS -->
 [![LinkedIn][linkedin-badge]][linkedin]
 [![Mail][mail-badge]][mail]
+[![Website][website-badge]][website]
 ![Visitors][visitor-badge]
 
 </div>
@@ -23,7 +24,7 @@
 
 - 📚 I'm currently learning **Natural Language Processing** and **Deep Learning**.
 
-- ❤️ I have an unwavering passion for exploring new facets of the vast and captivating realm of Computer Science, immersing myself in the acquisition of new languages, and coding.
+- ❤️ I have an unwavering passion for exploring various aspects of Computer Science, immersing myself in studying foreign languages, and coding.
 
 - 💬 Feel free to reach out on [LinkedIn][linkedin] or by [Mail][mail].
 
@@ -73,6 +74,8 @@
 [linkedin]: https://www.linkedin.com/in/andrei-harbachov/
 [mail-badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [mail]: mailto:andrei.harbachov@gmail.com
+[website-badge]: https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=homeadvisor&logoColor=white
+[website]: https://andreihar.github.io/
 [visitor-badge]: https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fandreihar&labelColor=%23222222&countColor=%23263759
 
 [stats-banner]: https://github-readme-stats-andreihar.vercel.app/api?username=andreihar&show_icons=true&theme=transparent&custom_title=GitHub&#32;Stats&hide_border=true
