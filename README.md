@@ -11,17 +11,21 @@
 
 ### Andrei Harabchov
 
+👋 Hello, everyone! I'm a dedicated university student pursuing a major in Computer Science with a keen interest in the fascinating world of Artificial Intelligence. My passion drives me to continuously explore and contribute to this rapidly advancing realm, as I strive to be at the forefront of innovative solutions. Come along on this fascinating journey of discovering the boundless potential of AI! 🚀
+
 <br/>
 
 <img align="right" alt="Coding" width="360" src="code.gif">
 
-- 🎓 I'm currently pursuing a Bachelor's degree in Computer Science with a specialisation in Artificial Intelligence at Simon Fraser University
+- 🎓 I'm currently pursuing a Bachelor's degree in Computer Science with a specialisation in Artificial Intelligence at Simon Fraser University.
 
-- 👨‍💻 I'm currently working on *English-Taiwanese Machine Translator*
+- 👨‍💻 I'm currently engaged in enhancing the representation of [Taiwanese Hokkien][taigi] by leveraging Neutral Machine Translators and developing Programming Toolboxes that simplify the creation of programming applications for the language.
 
-- 📚 I'm currently learning **Natural Language Processing** and **Machine Learning**
+- 📚 I'm currently learning **Natural Language Processing** and **Deep Learning**.
 
-- 💬 Feel free to reach out on [LinkedIn][linkedin] or by [Mail][mail]
+- ❤️ I have an unwavering passion for exploring new facets of the vast and captivating realm of Computer Science, immersing myself in the acquisition of new languages, and coding.
+
+- 💬 Feel free to reach out on [LinkedIn][linkedin] or by [Mail][mail].
 
 | [![GitHub Stats][stats-banner]][mail] | [![GitHub Langs][langs-banner]][mail] |
 | ------------- | ------------- |
@@ -69,6 +73,9 @@
 [linkedin]: https://www.linkedin.com/in/andrei-harbachov/
 [mail-badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [mail]: mailto:andrei.harbachov@gmail.com
+[visitor-badge]: https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fandreihar&labelColor=%23222222&countColor=%23263759
+
 [stats-banner]: https://github-readme-stats-andreihar.vercel.app/api?username=andreihar&show_icons=true&theme=transparent&custom_title=GitHub&#32;Stats&hide_border=true
 [langs-banner]: https://github-readme-stats-andreihar.vercel.app/api/top-langs/?username=andreihar&layout=donut&theme=transparent&hide_border=true
-[visitor-badge]: https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fandreihar&labelColor=%23222222&countColor=%23263759
+
+[taigi]: https://en.wikipedia.org/wiki/Taiwanese_Hokkien
