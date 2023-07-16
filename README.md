@@ -62,13 +62,13 @@
 
 
 <!-- MARKDOWN LINKS -->
-[header-banner]: https://readme-typing-svg.demolab.com/?lines=Hey+there!;你食飽未？;!السلام+عليكم;まいど！;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ!&font=Cormorant%20Garamond&center=true&duration=3000&pause=1000&size=32&weight=600
+[header-banner]: https://readme-typing-svg.demolab.com/?lines=Hey+there!;まいど！;你食飽未？;!السلام+عليكم;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ!&font=Klee%20One&center=true&duration=3000&pause=1000&size=32&weight=600
 
 [github]: https://github.com/andreihar
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin]: https://www.linkedin.com/in/andrei-harbachov/
 [mail-badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [mail]: mailto:andrei.harbachov@gmail.com
-[stats-banner]: https://github-readme-stats-andreihar.vercel.app/api?username=asd881018&show_icons=true&theme=transparent&custom_title=GitHub&#32;Stats&hide_border=true
-[langs-banner]: https://github-readme-stats-andreihar.vercel.app/api/top-langs/?username=asd881018&layout=donut&theme=transparent&hide_border=true
+[stats-banner]: https://github-readme-stats-andreihar.vercel.app/api?username=andreihar&show_icons=true&theme=transparent&custom_title=GitHub&#32;Stats&hide_border=true
+[langs-banner]: https://github-readme-stats-andreihar.vercel.app/api/top-langs/?username=andreihar&layout=donut&theme=transparent&hide_border=true
 [visitor-badge]: https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fandreihar&labelColor=%23222222&countColor=%23263759
