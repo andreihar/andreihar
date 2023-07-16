@@ -11,9 +11,9 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="360" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="360" src="code.gif">
 
-- 🎓 I'm currently studying for a computing science bachelor's degree at Simon Fraser University
+- 🎓 I'm currently pursuing a Bachelor's degree in Computer Science with a specialisation in Artificial Intelligence at Simon Fraser University
 
 - 👨‍💻 I'm currently working on *English-Taiwanese Machine Translator*
 
@@ -54,6 +54,6 @@
 [linkedin]: https://www.linkedin.com/in/andrei-harbachov/
 [mail-badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [mail]: mailto:andrei.harbachov@gmail.com
-[stats-banner]: https://github-readme-stats-andreihar.vercel.app/api?username=andreihar&show_icons=true&theme=transparent&custom_title=GitHub&#32;Stats&hide_border=true
-[langs-banner]: https://github-readme-stats-andreihar.vercel.app/api/top-langs/?username=andreihar&layout=donut&theme=transparent&hide_border=true
+[stats-banner]: https://github-readme-stats-andreihar.vercel.app/api?username=asd881018&show_icons=true&theme=transparent&custom_title=GitHub&#32;Stats&hide_border=true
+[langs-banner]: https://github-readme-stats-andreihar.vercel.app/api/top-langs/?username=asd881018&layout=donut&theme=transparent&hide_border=true
 [visitor-badge]: https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fandreihar&labelColor=%23222222&countColor=%23263759
