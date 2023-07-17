@@ -12,7 +12,7 @@
 
 ### Andrei Harbachov
 
-👋 Hello, everyone! I'm a dedicated university student pursuing a major in Computer Science with a keen interest in the fascinating world of Artificial Intelligence. My passion drives me to continuously explore and contribute to this rapidly advancing realm, as I strive to be at the forefront of innovative solutions. Come along on this fascinating journey of discovering the boundless potential of AI! 🚀
+👋 Hello, everyone! I'm a dedicated university student majoring in Computer Science with a keen interest in the fascinating world of Artificial Intelligence. My passion drives me to continuously explore and contribute to this rapidly advancing realm, as I strive to be at the forefront of innovative solutions. Come along on this fascinating journey of discovering the boundless potential of AI! 🚀
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 - 🎓 I'm currently pursuing a Bachelor's degree in Computer Science with a specialisation in Artificial Intelligence at Simon Fraser University.
 
-- 👨‍💻 I'm currently engaged in enhancing the representation of [Taiwanese Hokkien][taigi] by leveraging Neutral Machine Translators and developing Programming Toolboxes that simplify the creation of programming applications for the language.
+- 👨‍💻 I'm currently engaged in enhancing the representation of [Taiwanese Hokkien][taigi] by leveraging a Neural Machine Translator and developing Programming Toolboxes that simplify the creation of programming applications for the language.
 
 - 📚 I'm currently learning **Natural Language Processing** and **Deep Learning**.
 
@@ -35,6 +35,7 @@
 
 ### Languages and Tools
 
+<!-- Icons taken from devicon.dev -->
 <p align="left">
   <img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img alt="PyTorch" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
