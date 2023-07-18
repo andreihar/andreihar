@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG][header-banner]][github]
+### [![Typing SVG][header-banner]][github]
 
 <!-- PROFILE SHIELDS -->
 [![LinkedIn][linkedin-badge]][linkedin]
