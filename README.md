@@ -12,7 +12,7 @@
 
 ### Andrei Harbachov
 
-👋 Hello, everyone! I'm a dedicated university student majoring in Computer Science with a keen interest in the fascinating world of Artificial Intelligence. My passion drives me to continuously explore and contribute to this rapidly advancing realm, as I strive to be at the forefront of innovative solutions. Come along on this fascinating journey of discovering the boundless potential of AI! 🚀
+👋 Hello, everyone! I'm Andrei, a dedicated university student majoring in Computer Science with a keen interest in the fascinating world of Artificial Intelligence. My daily routine revolves around experimentation, learning, and coding, all sustained by generous servings of tea. My passion drives me to continuously explore and contribute to this rapidly advancing realm, as I strive to be at the forefront of innovative solutions. Let's connect, collaborate, and embark on this thrilling AI adventure together! 🚀
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 - 👨‍💻 I'm currently engaged in enhancing the representation of [Taiwanese Hokkien][taigi] by leveraging a Neural Machine Translator and developing Programming Toolboxes that simplify the creation of programming applications for the language.
 
-- 📚 I'm currently learning **Natural Language Processing** and **Deep Learning**.
+- 📚 I'm currently learning **Natural Language Processing**, **Computer Vision**, and **Machine Learning**.
 
 - ❤️ I have an unwavering passion for exploring various aspects of Computer Science, immersing myself in studying foreign languages, and coding.
 
