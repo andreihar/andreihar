@@ -12,19 +12,19 @@
 
 ### Andrei Harbachov
 
-👋 Hello, everyone! I'm Andrei, a dedicated university student majoring in Computer Science with a keen interest in the fascinating world of Artificial Intelligence. My daily routine revolves around experimentation, learning, and coding, all sustained by generous servings of tea. My passion drives me to continuously explore and contribute to this rapidly advancing realm, as I strive to be at the forefront of innovative solutions. Let's connect, collaborate, and embark on this thrilling AI adventure together! 🚀
+👋 Hello, everyone! I'm Andrei, a dedicated university student majoring in Computer Science with a keen interest in the fascinating world of Artificial Intelligence. My daily routine revolves around experimentation, learning, and coding, fueled by copious amounts of tea. Let's connect, collaborate, and embark on this thrilling AI adventure together! 🚀
 
 <br/>
 
 <img align="right" alt="Coding" width="360" src="code.gif">
 
-- 🎓 I'm currently pursuing a Bachelor's degree in Computer Science with a specialisation in Artificial Intelligence and Visual and Interactive Computing at Simon Fraser University.
+- 🎓 Pursuing a Bachelor's degree in Computer Science with a specialisation in **Artificial Intelligence** and **Visual and Interactive Computing** at Simon Fraser University.
 
-- 👨‍💻 I'm currently engaged in enhancing the representation of [Taiwanese Hokkien][taigi] by leveraging a Neural Machine Translator and developing Programming Toolboxes that simplify the creation of programming applications for the language.
+- 👨‍💻 Currently enhancing the representation of [Taiwanese Hokkien][taigi] by leveraging a Neural Machine Translator and developing Programming Toolboxes that simplify the creation of programming applications for the language.
 
-- 📚 I'm currently learning **Natural Language Processing**, **Computer Vision**, and **Machine Learning**.
+- 📚 Learning **Natural Language Processing**, **Computer Vision**, and **Machine Learning**.
 
-- ❤️ I have an unwavering passion for exploring various aspects of Computer Science, immersing myself in studying foreign languages, and coding.
+- ❤️ Passionate about exploring Computer Science, studying foreign languages, and coding.
 
 - 💬 Feel free to reach out on [LinkedIn][linkedin] or by [Mail][mail].
 
