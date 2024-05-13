@@ -4,6 +4,7 @@
 
 <!-- PROFILE SHIELDS -->
 [![LinkedIn][linkedin-badge]][linkedin]
+[![YouTube][youtube-badge]][youtube]
 [![Mail][mail-badge]][mail]
 [![Website][website-badge]][website]
 ![Visitors][visitor-badge]
@@ -29,7 +30,7 @@
 - 💬 Feel free to reach out on [LinkedIn][linkedin] or by [Mail][mail].
 
 | [![GitHub Stats][stats-banner]][mail] | [![GitHub Langs][langs-banner]][mail] |
-| ------------- | ------------- |
+| ------------------------------------- | ------------------------------------- |
 
 
 
@@ -79,7 +80,9 @@
 
 [github]: https://github.com/andreihar
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin]: https://www.linkedin.com/in/andrei-harbachov/
+[linkedin]: https://www.linkedin.com/in/andreihar/
+[youtube-badge]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
+[youtube]: https://www.youtube.com/@aharba
 [mail-badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [mail]: mailto:andrei.harbachov@gmail.com
 [website-badge]: https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=homeadvisor&logoColor=white
