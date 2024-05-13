@@ -1,6 +1,6 @@
 <div align="center">
 
-### [![Typing SVG][header-banner]][github]
+# Andrei Harbachov
 
 <!-- PROFILE SHIELDS -->
 [![LinkedIn][linkedin-badge]][linkedin]
@@ -11,8 +11,6 @@
 
 </div>
 
-### Andrei Harbachov
-
 👋 Hello, everyone! I'm Andrei, a dedicated university student majoring in Computer Science with a keen interest in the fascinating world of Artificial Intelligence. My daily routine revolves around experimentation, learning, and coding, fueled by copious amounts of tea. Let's connect, collaborate, and embark on this thrilling AI adventure together! 🚀
 
 <br/>
@@ -21,7 +19,7 @@
 
 - 🎓 Pursuing a Bachelor's degree in Computer Science with a specialisation in **Artificial Intelligence** and **Visual and Interactive Computing** at Simon Fraser University.
 
-- 👨‍💻 Currently enhancing the representation of [Taiwanese Hokkien][taigi] by leveraging a Neural Machine Translator and developing Programming Toolboxes that simplify the creation of programming applications for the language.
+- 👨‍💻 Currently enhancing the representation of [Taiwanese Hokkien][taigi] by leveraging a Neural Machine Translator and developing Programming Toolboxes that simplify the creation of applications for the language.
 
 - 📚 Learning **Natural Language Processing**, **Computer Vision**, and **Machine Learning**.
 
@@ -76,9 +74,6 @@
 
 
 <!-- MARKDOWN LINKS -->
-[header-banner]: https://readme-typing-svg.demolab.com/?lines=Hey+there!;まいど！;你食飽未？;!السلامعليکم;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ!&font=Klee%20One&center=true&duration=3000&pause=1000&size=32&weight=600
-
-[github]: https://github.com/andreihar
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin]: https://www.linkedin.com/in/andreihar/
 [youtube-badge]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
