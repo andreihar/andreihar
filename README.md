@@ -1,4 +1,7 @@
 <div align="center">
+  <a href="https://andreihar.com/">
+    <img src="logo.svg" alt="Logo" width="80" height="80">
+  </a>
 
 # Andrei Harbachov
 
@@ -11,13 +14,13 @@
 
 </div>
 
-👋 Hello, everyone! I'm Andrei, a dedicated university student majoring in Computer Science with a keen interest in the fascinating world of Artificial Intelligence. My daily routine revolves around experimentation, learning, and coding, fueled by copious amounts of tea. Let's connect, collaborate, and embark on this thrilling AI adventure together! 🚀
+👋 Hello, everyone! I'm Andrei, a passionate Computer Science graduate with a specialisation in Artificial Intelligence. My daily routine revolves around experimentation, learning, and coding, fuelled by copious amounts of tea. Let's connect, collaborate, and embark on this thrilling AI adventure together! 🚀
 
 <br/>
 
 <img align="right" alt="Coding" width="360" src="code.gif">
 
-- 🎓 Pursuing a Bachelor's degree in Computer Science with a specialisation in **Artificial Intelligence** and **Visual and Interactive Computing** at Simon Fraser University.
+- 🎓 Graduated with a Bachelor's degree in Computer Science, specialising in **Artificial Intelligence** and **Visual and Interactive Computing** at Simon Fraser University.
 
 - 👨‍💻 Currently enhancing the representation of [Taiwanese Hokkien][taigi] by leveraging a Neural Machine Translator and developing Programming Toolboxes that simplify the creation of applications for the language.
 
@@ -81,7 +84,7 @@
 [mail-badge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [mail]: mailto:andrei.harbachov@gmail.com
 [website-badge]: https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=homeadvisor&logoColor=white
-[website]: https://andreihar.github.io/
+[website]: https://andreihar.com/
 [visitor-badge]: https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fandreihar&labelColor=%23222222&countColor=%23263759
 
 [stats-banner]: https://github-readme-stats-andreihar.vercel.app/api?username=andreihar&show_icons=true&theme=transparent&custom_title=GitHub&#32;Stats&hide_border=true
